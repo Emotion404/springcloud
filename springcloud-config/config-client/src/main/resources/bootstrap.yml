@@ -14,3 +14,4 @@ eureka:
       
 Animal:
     type: cat
+    name: mario
