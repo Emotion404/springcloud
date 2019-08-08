@@ -57,4 +57,5 @@
     	<module>config-client</module>
     	<module>config-eureka-server</module>
     </modules>
+	
 </project>
