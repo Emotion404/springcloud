@@ -5,3 +5,6 @@ spring:
   application:
     name: config-client
 
+person: 
+    name: zhangsan
+
